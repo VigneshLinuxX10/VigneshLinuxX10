@@ -57,6 +57,99 @@ My goal is to contribute to **SOC operations, red‑team engagements, and proact
 </div>
 
 
+## 🛡️ Technical Skills  
+
+### 🔹 SIEM Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge&logo=wazuh&logoColor=white" />
+</p>
+
+### 🔹 Operating Systems  
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🔹 Networking  
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNA-0A66C2?style=for-the-badge&logo=graduated&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNP-0A66C2?style=for-the-badge&logo=graduated&logoColor=white" />
+</p>
+
+### 🔹 Security Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Suricata-FF0000?style=for-the-badge&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenVAS-009639?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tcpdump-333333?style=for-the-badge&logo=terminal&logoColor=white" />
+</p>
+
+### 🔹 Database  
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+
+## 🎓 Certifications  
+
+<p align="left">
+
+  <!-- Cyber Tech Mastery -->
+  <img src="https://img.shields.io/badge/Cyber%20Tech%20Mastery-PURSUING-blue?style=for-the-badge&logo=graduated&logoColor=white" />
+
+  <!-- Red Hat Certifications -->
+  <img src="https://img.shields.io/badge/RHCSA-Institute%20Certification-red?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/RHCE-Institute%20Certification-darkred?style=for-the-badge&logo=redhat&logoColor=white" />
+
+</p>
+
+## 🎓 Core Skills That I Learned From This Courses 
+
+### 📘 Cyber Tech Mastery (Selfmade Ninja Academy) – *PURSUING*  
+<p align="left">
+  <img src="https://img.shields.io/badge/Cyber%20Tech%20Mastery-PURSUING-blue?style=for-the-badge&logo=graduated&logoColor=white" />
+</p>
+
+**Skills Earned:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Exploit%20Discovery-333333?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-333333?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-333333?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Security-333333?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Programming-333333?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-333333?style=for-the-badge&logo=ethernet&logoColor=white" />
+</p>
+
+---
+
+### 🔴 Red Hat Certifications (Institute Level)  
+<p align="left">
+  <img src="https://img.shields.io/badge/RHCSA-Institute%20Certification-red?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/RHCE-Institute%20Certification-darkred?style=for-the-badge&logo=redhat&logoColor=white" />
+</p>
+
+**Skills Earned (RHCSA):**  
+<p align="left">
+  <img src="https://img.shields.io/badge/User%20Management-333333?style=for-the-badge&logo=users&logoColor=white" />
+  <img src="https://img.shields.io/badge/File%20Systems-333333?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-333333?style=for-the-badge&logo=ethernet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SELinux-333333?style=for-the-badge&logo=lock&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Monitoring-333333?style=for-the-badge&logo=monitor&logoColor=white" />
+</p>
+
+**Skills Earned (RHCE):**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Ansible%20Automation-333333?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking%20Services-333333?style=for-the-badge&logo=networkx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Troubleshooting-333333?style=for-the-badge&logo=bug&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%20Compliance-333333?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Containers-333333?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Administration-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash%20Scripting-333333?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
 <!--
 **VigneshLinuxX10/VigneshLinuxX10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
