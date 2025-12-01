@@ -145,8 +145,8 @@ My goal is to contribute to **SOC operations, red‑team engagements, and proact
 <td width="45%" valign="top" align="center">
 
 <!-- Large Anime Hacker / Linux Typing GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Anime Hacker Typing Code GIF" width="100%"/>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+     alt="Anime Hacker Typing Code GIF" width="100%"/>
 <h3> 👨‍💻 Aspiring Cybersecurity Analyst</h3>
 
 <p><strong><i>" Every log tells a story — it’s our job to read it."</i></strong></p>
