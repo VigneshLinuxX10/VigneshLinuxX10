@@ -1,19 +1,31 @@
-
 # 👨‍💻 Cybersensei — Cybersecurity & Red Team Enthusiast
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Red%20Team-000000?style=for-the-badge&logo=probot&logoColor=FF0000" height="30"/>
-  <img src="https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00" height="30"/>
-  <img src="https://img.shields.io/badge/Exploit%20Development-000000?style=for-the-badge&logo=hackaday&logoColor=FFD700" height="30"/>
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=blue" height="30"/>
-  <img src="https://img.shields.io/badge/Privilege%20Escalation-000000?style=for-the-badge&logo=linux&logoColor=orange" height="30"/>
+  <img src="https://github.com/VigneshLinuxX10/VigneshLinuxX10/blob/38564133d3f01e099782dbd3f84436f2306df2ba/Cybervignesh-banner.png" alt="Cybersecurity Banner" width="900" height="280">
 </p>
 
 
-## 🖥️ Objective 
+<p align="center">
+  <!-- Core SOC Skills -->
+  <img src="https://img.shields.io/badge/SOC%20Analyst-0A0A0A?style=for-the-badge&logo=siemens&logoColor=00BFFF" height="30"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-0A0A0A?style=for-the-badge&logo=virus-total&logoColor=yellow" height="30"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=red" height="30"/>
 
-![Kali Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=┌──(vigneshwaran㉿github)-[~/Cybersecurity];└─$+whoami;VIGNESHWARAN;while(true){echo+%22Hacking...%22};for(i=0;i<10;i++){printf(%22Exploit+Running...%22)})
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Splunk-0A0A0A?style=for-the-badge&logo=splunk&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Wazuh-0A0A0A?style=for-the-badge&logo=wazuh&logoColor=00FF00" height="30"/>
+  <img src="https://img.shields.io/badge/Wireshark-0A0A0A?style=for-the-badge&logo=wireshark&logoColor=1E90FF" height="30"/>
+  <img src="https://img.shields.io/badge/Elastic%20Stack-0A0A0A?style=for-the-badge&logo=elastic&logoColor=orange" height="30"/>
+
+  <!-- Forensics & Network Analysis -->
+  <img src="https://img.shields.io/badge/Network%20Forensics-0A0A0A?style=for-the-badge&logo=cisco&logoColor=00ADEF" height="30"/>
+  <img src="https://img.shields.io/badge/Log%20Analysis-0A0A0A?style=for-the-badge&logo=hackaday&logoColor=lightgrey" height="30"/>
+</p>
+
+
+## 🛡️ Professional Summary  
+
+![SOC Analyst Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=┌──(vigneshwaran㉿SOC-Analyst)-[~/SecurityOps];└─$+whoami;VIGNESHWARAN;Initializing+SIEM+Query...;Monitoring+Threat+Indicators...;Analyzing+Logs+and+Alerts...;Correlating+Events...;Investigating+Suspicious+Activity...;Performing+Incident+Response...;Reporting+Security+Findings...)
 
 # Hello, I'm Vigneshwaran
 
@@ -28,36 +40,67 @@ My goal is to contribute to **SOC operations, red‑team engagements, and proact
 ---
 
 ### 🌐 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshlinuxx10?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 &nbsp;&nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@cybersensei-redteam-10?si=cy-5l43Wi4Rt461D)
 
+
 ## 🎬 Our Latest YouTube Videos
 
-| [![Video 1](https://img.youtube.com/vi/1x68w1sTams/0.jpg)](https://youtu.be/1x68w1sTams) | [![Video 2](https://img.youtube.com/vi/i2_lEpCSsl4/0.jpg)](https://youtu.be/i2_lEpCSsl4) | [![Video 3](https://img.youtube.com/vi/ZGAFCIaiPug/0.jpg)](https://youtu.be/ZGAFCIaiPug) |
-|---|---|---|
-| [![Video 4](https://img.youtube.com/vi/1LNERKZDAII/0.jpg)](https://youtu.be/1LNERKZDAII) | [![Video 5](https://img.youtube.com/vi/rljddkxP37o/0.jpg)](https://youtu.be/rljddkxP37o) | [![Video 6](https://img.youtube.com/vi/uHY4KHRifeU/0.jpg)](https://youtu.be/uHY4KHRifeU) |
-
-## 🌐 **Cybersecurity Profiles**
 
 <div align="center">
 
-  <a href="https://app.hackthebox.com/users/2601166">
-    <img src="https://img.shields.io/badge/HackTheBox-Profile-000000?style=for-the-badge&logo=hackthebox&logoColor=32CD32&labelColor=000000" height="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://app.letsdefend.io/user/cybervignesh">
-    <img src="https://img.shields.io/badge/LetsDefend-Profile-000000?style=for-the-badge&logo=shield&logoColor=00BFFF&labelColor=000000" height="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://blueteamlabs.online/public/user/d4c5d0544e40173517fb3f">
-    <img src="https://img.shields.io/badge/BlueTeamLabs-Profile-000000?style=for-the-badge&logo=probot&logoColor=8A2BE2&labelColor=000000" height="60"/>
-  </a>
+<!-- Row 1 -->
+<a href="https://youtu.be/1x68w1sTams">
+  <img src="https://img.youtube.com/vi/1x68w1sTams/mqdefault.jpg" alt="Video 1" width="280">
+</a>
+<a href="https://youtu.be/i2_lEpCSsl4">
+  <img src="https://img.youtube.com/vi/i2_lEpCSsl4/mqdefault.jpg" alt="Video 2" width="280">
+</a>
+<a href="https://youtu.be/ZGAFCIaiPug">
+  <img src="https://img.youtube.com/vi/ZGAFCIaiPug/mqdefault.jpg" alt="Video 3" width="280">
+</a>
+
+<br><br>
+
+<!-- Row 2 -->
+<a href="https://youtu.be/1LNERKZDAII">
+  <img src="https://img.youtube.com/vi/1LNERKZDAII/mqdefault.jpg" alt="Video 4" width="280">
+</a>
+<a href="https://youtu.be/rljddkxP37o">
+  <img src="https://img.youtube.com/vi/rljddkxP37o/mqdefault.jpg" alt="Video 5" width="280">
+</a>
+<a href="https://youtu.be/uHY4KHRifeU">
+  <img src="https://img.youtube.com/vi/uHY4KHRifeU/mqdefault.jpg" alt="Video 6" width="280">
+</a>
 
 </div>
 
+## 🌐 **Cybersecurity Profiles**
+<p align="center">
 
-## 🛡️ Technical Skills  
+  <a href="https://app.hackthebox.com/users/2601166">
+    <img src="https://img.shields.io/badge/HackTheBox-View_Profile-000000?style=for-the-badge&logo=hackthebox&logoColor=32CD32&labelColor=000000" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://app.letsdefend.io/user/cybervignesh">
+    <img src="https://img.shields.io/badge/LetsDefend-View_Profile-000000?style=for-the-badge&logo=shield&logoColor=00BFFF&labelColor=000000" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://blueteamlabs.online/public/user/d4c5d0544e40173517fb3f">
+    <img src="https://img.shields.io/badge/BlueTeamLabs-View_Profile-000000?style=for-the-badge&logo=probot&logoColor=8A2BE2&labelColor=000000" height="55"/>
+  </a>
+
+</p>
+
+## 🛡️ Technical Skills    
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ### 🔹 SIEM Tools  
 <p align="left">
@@ -74,8 +117,8 @@ My goal is to contribute to **SOC operations, red‑team engagements, and proact
 ### 🔹 Networking  
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/CCNA-0A66C2?style=for-the-badge&logo=graduated&logoColor=white" />
-  <img src="https://img.shields.io/badge/CCNP-0A66C2?style=for-the-badge&logo=graduated&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNA-0A66C2?style=for-the-badge&logo=book-open&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNP-0A66C2?style=for-the-badge&logo=book-open&logoColor=white" />
 </p>
 
 ### 🔹 Security Tools  
@@ -92,19 +135,36 @@ My goal is to contribute to **SOC operations, red‑team engagements, and proact
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+### 🔹 Cybersecurity Frameworks  
+<p align="left">
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF4500?style=for-the-badge&logo=matrix&logoColor=white" />
+</p>
+
+</td>
+
+<td width="45%" valign="top" align="center">
+
+<!-- Enlarged Anime Hacker / Linux Typing GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Anime Hacker Typing Code GIF" width="450" height="600"/>
+
+<h3> 👨‍💻 Aspiring Cybersecurity Analyst</h3>
+
+<p><i>"Every log tells a story — it’s our job to read it."</i></p>
+<p><i>"Detection is not just a skill, it’s a mindset."</i></p>
+<p><i>"In the SOC, vigilance is victory."</i></p>
+<p><i>"Hackers never sleep — neither does our defense."</i></p>
+
+</td>
+</tr>
+</table>
 
 ## 🎓 Certifications  
-
 <p align="left">
-
-  <!-- Cyber Tech Mastery -->
-  <img src="https://img.shields.io/badge/Cyber%20Tech%20Mastery-PURSUING-blue?style=for-the-badge&logo=graduated&logoColor=white" />
-
-  <!-- Red Hat Certifications -->
+  <img src="https://img.shields.io/badge/Cyber%20Tech%20Mastery-PURSUING-blue?style=for-the-badge&logo=book&logoColor=white" />
   <img src="https://img.shields.io/badge/RHCSA-Institute%20Certification-red?style=for-the-badge&logo=redhat&logoColor=white" />
   <img src="https://img.shields.io/badge/RHCE-Institute%20Certification-darkred?style=for-the-badge&logo=redhat&logoColor=white" />
-
 </p>
+
 
 ## 🎓 Core Skills That I Learned From This Courses 
 
