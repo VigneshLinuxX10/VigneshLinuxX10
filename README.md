@@ -144,15 +144,15 @@ My goal is to contribute to **SOC operations, red‑team engagements, and proact
 
 <td width="45%" valign="top" align="center">
 
-<!-- Enlarged Anime Hacker / Linux Typing GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Anime Hacker Typing Code GIF" width="450" height="600"/>
+<!-- Large Anime Hacker / Linux Typing GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Anime Hacker Typing Code GIF" width="100%"/>
 
 <h3> 👨‍💻 Aspiring Cybersecurity Analyst</h3>
 
-<p><i>"Every log tells a story — it’s our job to read it."</i></p>
-<p><i>"Detection is not just a skill, it’s a mindset."</i></p>
-<p><i>"In the SOC, vigilance is victory."</i></p>
-<p><i>"Hackers never sleep — neither does our defense."</i></p>
+<p><strong><i>" Every log tells a story — it’s our job to read it."</i></strong></p>
+<p><strong><i>" Detection is not just a skill, it’s a mindset. "</i></strong></p>
+<p><strong><i>" In the SOC, vigilance is victory. "</i></strong></p>
+<p><strong><i>" Hackers never sleep — neither does our defense. "</i></strong></p>
 
 </td>
 </tr>
