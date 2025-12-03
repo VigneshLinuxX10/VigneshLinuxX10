@@ -48,7 +48,6 @@ My goal is to contribute to **SOC operations, red‑team engagements, and proact
 
 ## 🎬 Our Latest YouTube Videos
 
-
 <div align="center">
 
 <!-- Row 1 -->
@@ -58,16 +57,20 @@ My goal is to contribute to **SOC operations, red‑team engagements, and proact
 <a href="https://youtu.be/i2_lEpCSsl4">
   <img src="https://img.youtube.com/vi/i2_lEpCSsl4/mqdefault.jpg" alt="Video 2" width="280">
 </a>
-<a href="https://youtu.be/ZGAFCIaiPug">
-  <img src="https://img.youtube.com/vi/ZGAFCIaiPug/mqdefault.jpg" alt="Video 3" width="280">
-</a>
 
 <br><br>
 
 <!-- Row 2 -->
+<a href="https://youtu.be/ZGAFCIaiPug">
+  <img src="https://img.youtube.com/vi/ZGAFCIaiPug/mqdefault.jpg" alt="Video 3" width="280">
+</a>
 <a href="https://youtu.be/1LNERKZDAII">
   <img src="https://img.youtube.com/vi/1LNERKZDAII/mqdefault.jpg" alt="Video 4" width="280">
 </a>
+
+<br><br>
+
+<!-- Row 3 -->
 <a href="https://youtu.be/rljddkxP37o">
   <img src="https://img.youtube.com/vi/rljddkxP37o/mqdefault.jpg" alt="Video 5" width="280">
 </a>
@@ -76,6 +79,7 @@ My goal is to contribute to **SOC operations, red‑team engagements, and proact
 </a>
 
 </div>
+
 
 ## 🌐 **Cybersecurity Profiles**
 <p align="center">
